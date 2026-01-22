@@ -36,7 +36,7 @@ Extraction: PyPDF2.
 
 Clone the repository:
 
-git clone https://github.com/sivatejadondamuri/ATS_checker.git  
+git clone https://github.com/dbnssaipavan/ATS_checker.git  
 cd ats-pro-checker
 
 Install dependencies:
@@ -72,3 +72,4 @@ The backend uses a specific System Instruction to turn Gemini into a critical AT
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
